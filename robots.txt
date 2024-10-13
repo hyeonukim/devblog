@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hyeonukim.github.io/devblog/sitemap.xml
