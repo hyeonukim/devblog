@@ -15,13 +15,13 @@ I graduated from **Simon Fraser University** with a degree in **Computer Science
 - **_Software Developer_** at Hammer & Tong  
 **April 2023 – August 2023**  
   Developed a **narrative Unity game**, mentored artists on using **Git**, and handled **technical writing**.
+You can check the demo video [here](https://youtu.be/U6YLE0IdX7A).
 
-  <iframe width="600" height="315" src="https://youtu.be/U6YLE0IdX7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here are some other works that I have done for fun
-  <iframe width="600" height="315" src="https://youtu.be/8E-_ol4Br2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-  <iframe width="600" height="315" src="https://youtu.be/Qp885i4clvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Undead Survivor pt.1](https://youtu.be/8E-_ol4Br2s).
+- [Undead Survivor pt.2](https://youtu.be/Qp885i4clvs).
+- [Usan Demo](https://youtu.be/Y9rJ05sL8NI).
 
 
 Feel free to explore my posts, and let's connect if you share similar interests!
