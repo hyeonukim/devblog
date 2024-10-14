@@ -690,7 +690,7 @@ $btn-mb: 0.5rem;
   width: $sidebar-width;
   z-index: 99;
   // background: var(--sidebar-bg);
-  background-image: url('/assets/img/snow.jpg');
+  background-image: url('../../assets/img/snow-bg.webp');
   background-size: cover;
   background-repeat:no-repeat;
   border-right: 1px solid var(--sidebar-border-color);
@@ -828,8 +828,7 @@ $btn-mb: 0.5rem;
       height: $btn-size;
       margin-bottom: $btn-mb; // multi line gap
       border-radius: 50%;
-      color: var(--sidebar-btn-color);
-      background-color: var(--sidebar-btn-bg);
+      color: var(--link-color);
       text-align: center;
       display: flex;
       align-items: center;
@@ -837,10 +836,6 @@ $btn-mb: 0.5rem;
 
       &:not(:focus-visible) {
         box-shadow: var(--sidebar-border-color) 0 0 0 1px;
-      }
-
-      &:hover {
-        background-color: var(--sidebar-hover-bg);
       }
     }
 
