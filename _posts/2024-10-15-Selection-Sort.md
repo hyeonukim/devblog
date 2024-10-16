@@ -1,6 +1,5 @@
 ---
 title: Algorithm Analysis (1) - Selection Sort
-author: Hyeonu(Eric) Kim
 date: 2024-10-15
 categories: [Algorithm Analysis]
 tags: [Algorithm Analysis, Selection Sort, Sorting, Study, Python, C#, C++]
