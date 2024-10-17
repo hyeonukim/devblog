@@ -1,7 +1,7 @@
 ---
 title: Algorithm Analysis (1) - Selection Sort
 date: 2024-10-15
-categories: [Algorithm Analysis]
+categories: [Algorithm Analysis, Sorting]
 tags: [Algorithm Analysis, Selection Sort, Sorting, Study, Python, C#, C++]
 ---
 
@@ -10,9 +10,11 @@ tags: [Algorithm Analysis, Selection Sort, Sorting, Study, Python, C#, C++]
 
 [- Coding Selection Sort](#coding-selection-sort)
 
+[- Selection Sort's Time Complexity](#selection-sorts-time-complexity)
+
 [- Selection Sort's characteristics](#selection-sorts-characteristics)
 
-[- Selection Sort's Time Complexity](#selection-sorts-time-complexity)
+
 
 ## Understanding Selection Sort
 Selection Sort is one of many sorting algorithms that can sort data. Say that we want to sort array in **ascending order**, then key idea with Selection Sort is that we're looking for **minimum value**, and gradually **swapping them with the i-th element of the array**. Here's a simple array and we're going to use Selection Sort to sort this array.
@@ -136,15 +138,6 @@ void SelectionSort(int[] array, int n) {
 }
 ```
 
-## Selection Sort's characteristics
-
-**Advantage**  
-- No additional temporary storage is required other than the original list.
-- Easy to implement.
-
-**Disadvantage**  
-- Poor efficiency regarding time complexity when dealing with big arrays.
-
 ## Selection Sort's Time Complexity
 To calculate the Time Complexity of Selection Sort,
 
@@ -161,3 +154,13 @@ To calculate the Time Complexity of Selection Sort,
 Thus, we have
 
 **T(n) = (n-1) + (n-2) + ... + 2 + 1 = n(n-1)/2 = O(n^2)**
+
+
+## Selection Sort's characteristics
+
+**Advantage**  
+- No additional temporary storage is required other than the original list.
+- Easy to implement.
+
+**Disadvantage**  
+- Poor efficiency regarding time complexity when dealing with big arrays.
