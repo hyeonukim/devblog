@@ -6,7 +6,7 @@ tags: [Algorithm Analysis, Quick Sort, Sorting, Study, Python, C#, C++]
 ---
 
 ## Goal
-[- Understanding Quick Sort](#understnading-quick-sort)
+[- Understanding Quick Sort](#understanding-quick-sort)
 
 [- Coding Quick Sort](#coding-quick-sort)
 
