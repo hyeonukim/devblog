@@ -194,6 +194,7 @@ defaults:
       permalink: /:title/
 
 sass:
+  quiet_deps: true
   style: compressed
 
 compress_html:
