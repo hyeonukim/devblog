@@ -2,6 +2,8 @@
   Style for Homepage
 */
 
+@use '../addon/variables' as vars;
+
 #post-list {
   margin-top: 2rem;
 
@@ -20,7 +22,7 @@
     background: none;
 
     %img-radius {
-      border-radius: $radius-lg $radius-lg 0 0;
+      border-radius: vars.$radius-lg vars.$radius-lg 0 0;
     }
 
     .preview-img {
@@ -36,7 +38,7 @@
       padding: 1rem;
 
       .card-title {
-        @extend %text-clip;
+        @extend %text-clip !optional;
 
         color: var(--heading-color) !important;
         font-size: 1.25rem;
@@ -47,10 +49,10 @@
       }
 
       .card-text.content {
-        @extend %muted;
+        @extend %muted !optional;
 
         p {
-          @extend %text-clip;
+          @extend %text-clip !optional;
 
           line-height: 1.5;
           margin: 0;
@@ -58,7 +60,7 @@
       }
 
       .post-meta {
-        @extend %muted;
+        @extend %muted !optional;
 
         i {
           &:not(:first-child) {
@@ -67,7 +69,7 @@
         }
 
         em {
-          @extend %normal-font-style;
+          @extend %normal-font-style !optional;
 
           color: inherit;
         }
@@ -131,7 +133,7 @@
 /* Tablet */
 @media all and (min-width: 768px) {
   %img-radius {
-    border-radius: 0 $radius-lg $radius-lg 0;
+    border-radius: 0 vars.$radius-lg vars.$radius-lg 0;
   }
 
   #post-list {

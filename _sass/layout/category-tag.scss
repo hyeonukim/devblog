@@ -2,6 +2,9 @@
   Style for page Category and Tag
 */
 
+@use '../addon/variables' as vars;
+@use '../addon/module' as m;
+
 .dash {
   margin: 0 0.5rem 0.6rem 0.5rem;
   border-bottom: 2px dotted var(--dash-color);
@@ -28,7 +31,7 @@
 
     /* post's title */
     > a {
-      @extend %no-bottom-border;
+      @extend %no-bottom-border !optional;
 
       font-size: 1.1rem;
     }

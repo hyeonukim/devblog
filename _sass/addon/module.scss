@@ -2,12 +2,14 @@
 * Mainly scss modules, only imported to `assets/css/main.scss`
 */
 
+@use 'variables' as vars;
+
 /* ---------- scss placeholder --------- */
 
 %heading {
   color: var(--heading-color);
   font-weight: 400;
-  font-family: $font-family-heading;
+  font-family: vars.$font-family-heading;
 }
 
 %anchor {
@@ -81,7 +83,7 @@
 }
 
 %rounded {
-  border-radius: $radius-lg;
+  border-radius: vars.$radius-lg;
 }
 
 %img-caption {

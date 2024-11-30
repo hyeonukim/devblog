@@ -2,6 +2,9 @@
   Post-specific style
 */
 
+@use '../addon/variables' as vars;
+@use '../addon/module' as m;
+
 %btn-post-nav {
   width: 50%;
   position: relative;
@@ -173,12 +176,12 @@ header {
     }
 
     &:first-child {
-      border-radius: $radius-lg 0 0 $radius-lg;
+      border-radius: vars.$radius-lg 0 0 vars.$radius-lg;
       left: 0.5px;
     }
 
     &:last-child {
-      border-radius: 0 $radius-lg $radius-lg 0;
+      border-radius: 0 vars.$radius-lg vars.$radius-lg 0;
       right: 0.5px;
     }
   }
@@ -294,7 +297,7 @@ header {
 
 #related-posts {
   > h3 {
-    @include label(1.1rem, 600);
+    @include m.label(1.1rem, 600);
   }
 
   time {
@@ -335,7 +338,7 @@ header {
 }
 
 .share-label {
-  @include label(inherit, 400, inherit);
+  @include m.label(inherit, 400, inherit);
 
   &::after {
     content: ':';
