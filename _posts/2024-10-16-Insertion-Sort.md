@@ -1,8 +1,10 @@
 ---
 title: Algorithm Analysis (2) - Insertion Sort
+description: Explanation for Insertion Sort algorithm, its implementation in multiple programming languages, and its time complexity characteristics.
 date: 2024-10-16
 categories: [Algorithm Analysis, Sorting]
 tags: [Algorithm Analysis, Insertion Sort, Sorting, Study, Python, C#, C++]
+math: true
 ---
 
 ## Goal
@@ -109,19 +111,19 @@ void InsertionSort(int[] array, int n){
 
 To calculate the Time Complexity of Insertion Sort,
 
-Just like Selection Sort, it takes O(n^2) as in worst case, it has to swap 
+Just like Selection Sort, it takes $ O(n^2) $ as in worst case, it has to swap 
 
-**T(n) = (n-1) + (n-2) + ... + 2 + 1 = n(n-1)/2 = O(n^2)**
+$ T(n) = (n-1) + (n-2) + ... + 2 + 1 = n(n-1)/2 = O(n^2) $
 
 However, in best case scenario, we don't have to iterate the second for loop. 
 
-Thus, in best case: **T(n) = 1 + 1 + ... + 1 + 1 = O(n)**
+Thus, in best case: $ T(n) = \underbrace{1 + 1 + \cdots + 1 + 1}_{n\text{ times}} = O(n)$
 
 ## Insertion Sort's characteristics
 
 **Advantage**  
 - No additional temporary storage is required other than the original list.
-- In best canse the time complexity is O(n).
+- In best canse the time complexity is $ O(n) $.
 
 **Disadvantage**  
 - In a worst case, It still has poor time complexity.

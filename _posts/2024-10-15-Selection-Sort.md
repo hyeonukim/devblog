@@ -1,8 +1,10 @@
 ---
 title: Algorithm Analysis (1) - Selection Sort
+description: Explanation for Selection Sort algorithm, its implementation in multiple programming languages, and its time complexity characteristics.
 date: 2024-10-15
 categories: [Algorithm Analysis, Sorting]
 tags: [Algorithm Analysis, Selection Sort, Sorting, Study, Python, C#, C++]
+math: true
 ---
 
 ## Goal
@@ -142,18 +144,18 @@ void SelectionSort(int[] array, int n) {
 To calculate the Time Complexity of Selection Sort,
 
 - How many times are data being compared to find min-value
-    - First loop: (n-1)
-    - Second loop: (n-2)
+    - First loop: $ (n-1) $
+    - Second loop: $ (n-2) $
     - ...
-    - N-1 loop: 2
-    - N-th loop: 1
+    - N-1 loop: $ 2 $
+    - N-th loop: $ 1 $
 
 - How many times are we swapping the data
-    -Swapping is done in O(1)
+    -Swapping is done in $ O(1) $
 
 Thus, we have
 
-**T(n) = (n-1) + (n-2) + ... + 2 + 1 = n(n-1)/2 = O(n^2)**
+$ T(n) = (n-1) + (n-2) + ... + 2 + 1 = n(n-1)/2 = O(n^2) $
 
 
 ## Selection Sort's characteristics

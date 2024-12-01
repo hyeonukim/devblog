@@ -1,8 +1,10 @@
 ---
 title: Algorithm Analysis (3) - Quick Sort
-date: 2024-10-16
+description: Explanation for Quick Sort algorithm, its implementation in multiple programming languages, and its time complexity characteristics.
+date: 2024-10-17
 categories: [Algorithm Analysis, Sorting]
 tags: [Algorithm Analysis, Quick Sort, Sorting, Study, Python, C#, C++]
+math: true
 ---
 
 ## Goal
@@ -210,17 +212,17 @@ void QuickSort(int[] array, int start, int end)
 
 ## Quick Sort's Time Complexity
 
-The time complexity for Quick Sort is O(n log n).
+The time complexity for Quick Sort is $ O(n \log{n}) $.
 >> Each partitioning divides the array to two parts, which sums up to log n operations, and since partitioning opertation takes O(n), we have total of O(n * log n).
 
-However, in worst case it still takes O(n^2).
+However, in worst case it still takes $ O(n^2) $.
 >> if pivot is always the smallest or largest element, this could happen.
 
 ## Quick Sort's characteristics
 
 **Advantage**  
 - No additional temporary storage is required other than the original list.
-- It's efficient compared to Insertion Sort and Selection Sort as the time complexity is  O(n log n)
+- It's efficient compared to Insertion Sort and Selection Sort as the time complexity is $ O(n \log{n}) $
 
 **Disadvantage**  
 - In a worst case, It still has poor time complexity.
