@@ -1,3 +1,5 @@
+document.body.style.border = '5px solid red';
+
 /**
  * Theme management class
  *
@@ -99,6 +101,8 @@ class Theme {
    * Flips the current theme mode
    */
   static flip() {
+    window.alert('System dark:' + this.#sysDark);
+
     if (this.#hasMode) {
       this.#clearMode();
     } else {
