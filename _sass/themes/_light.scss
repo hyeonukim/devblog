@@ -12,14 +12,12 @@
   --label-color: #585858;
   --blockquote-border-color: #eeeeee;
   --blockquote-text-color: #757575;
-  --link-color: rgb(0, 123, 255);
-  --link-underline-color: rgb(0, 123, 255);
-  --button-color: rgb(42, 42, 42);
+  --link-color: #0056b2;
+  --link-underline-color: #dee2e6;
   --button-bg: #ffffff;
   --btn-border-color: #e9ecef;
   --btn-backtotop-color: #686868;
   --btn-backtotop-border-color: #f1f1f1;
-  --btn-box-shadow: #eaeaea;
   --checkbox-color: #c5c5c5;
   --checkbox-checked-color: #07a8f7;
   --img-bg: radial-gradient(
@@ -35,16 +33,16 @@
   );
 
   /* Sidebar */
-  --site-title-color: #cbcbcb;
-  --site-subtitle-color: #cbcbcb;
-  --sidebar-bg: #cbcbcb;
-  --sidebar-border-color: #cbcbcb;
-  --sidebar-muted-color: #f7f7f7;
-  --sidebar-active-color: #f7f7f7;
-  --sidebar-hover-bg: #262626d0;
-  --sidebar-btn-bg: #ffffffd0;
-  --sidebar-btn-color: #787878;
-  --avatar-border-color: #cbcbcb;
+  --site-title-color: rgb(113, 113, 113);
+  --site-subtitle-color: #717171;
+  --sidebar-bg: #f6f8fa;
+  --sidebar-border-color: #efefef;
+  --sidebar-muted-color: #545454;
+  --sidebar-active-color: #1d1d1d;
+  --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
+  --sidebar-btn-bg: white;
+  --sidebar-btn-color: #8e8e8e;
+  --avatar-border-color: white;
 
   /* Topbar */
   --topbar-bg: rgb(255, 255, 255, 0.7);
