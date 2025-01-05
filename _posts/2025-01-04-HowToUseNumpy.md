@@ -9,7 +9,7 @@ math: true
 
 ## Lesson Notes in .ipynb file
 
-[Computer Vision(1) - How to use Numpy](https://github.com/hyeonukim/ComputerVisionStudyNote/blob/main/ComputerVision(1)_How_To_use_Numpy.ipynb)
+[Computer Vision(1) - How to use Numpy](https://github.com/hyeonukim/ComputerVisionStudyNote/blob/main/computervision_1_how_to_use_numpy.ipynb)
 
 ## Topics
 
