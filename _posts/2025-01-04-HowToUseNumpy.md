@@ -15,7 +15,7 @@ math: true
 
 - [What is Numpy?](#what-is-numpy)
 - [Basic Terms](#basic-terms)
-- [Importing Numpy and how to make List/Array with Numpy](#importing-numpy-and-how-to-make-list/array-with-numpy)
+- [Importing Numpy and how to make List/Array with Numpy](#importing-numpy-and-how-to-make-listarray-with-numpy)
 - [Some basic operations in Numpy](#summary)
 - [Merging two array using Numpy](#merging-two-array-using-numpy)
 - [Using Reshape allows array to be in different shape](#using-reshape-allows-array-to-be-in-different-shape)
