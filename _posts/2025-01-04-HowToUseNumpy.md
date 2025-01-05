@@ -13,7 +13,7 @@ math: true
 
 ## Topics
 
-- [What is Numpy?](#what-is-nupmy)
+- [What is Numpy?](#what-is-numpy)
 - [Basic Terms](#basic-terms)
 - [Importing Numpy and how to make List/Array with Numpy](#importing-numpy-and-how-to-make-list/array-with-numpy)
 - [Some basic operations in Numpy](#summary)
