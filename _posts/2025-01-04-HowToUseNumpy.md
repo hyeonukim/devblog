@@ -1,15 +1,15 @@
 ---
-title: Computer Vision(1) - How to use Numpy
+title: How to handle Data, and Images(1) - How to use Numpy
 description: How to use Numpy in Python, and basic operations in Numpy.
 date: 2025-01-04
-categories: [Computer Vision]
-tags: [Python, Study, Computer Vision]
+categories: [Handling Data and Images]
+tags: [Python, Study, Handling Data and Images]
 math: true
 ---
 
 ## Lesson Notes in .ipynb file
 
-[Computer Vision(1) - How to use Numpy](https://github.com/hyeonukim/ComputerVisionStudyNote/blob/main/computervision_1_how_to_use_numpy.ipynb)
+[How to handle Data, and Images(1) - How to use Numpy](https://github.com/hyeonukim/DataProcessing_ImageHandling/blob/main/How_to_handle_Data,_and_Images(1)_how_to_use_numpy.ipynb)
 
 ## Topics
 
