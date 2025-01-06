@@ -2,8 +2,8 @@
 title: How to handle Data, and Images(1) - How to use Numpy
 description: How to use Numpy in Python, and basic operations in Numpy.
 date: 2025-01-04
-categories: [Handling Data and Images]
-tags: [Python, Study, Handling Data and Images]
+categories: [Handling Data and Images, Numpy]
+tags: [Python, Study, Handling Data and Images, Numpy]
 math: true
 ---
 

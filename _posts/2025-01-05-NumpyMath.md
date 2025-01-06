@@ -2,8 +2,8 @@
 title: How to handle Data, and Images(2) - Numpy and Math
 description: How to use Math operations on Numpy, and how matrix operations work.
 date: 2025-01-05
-categories: [Handling Data and Images]
-tags: [Python, Study, Handling Data and Images]
+categories: [Handling Data and Images, Numpy]
+tags: [Python, Study, Handling Data and Images, Numpy]
 math: true
 ---
 

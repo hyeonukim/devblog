@@ -2,8 +2,8 @@
 title: How to handle Data, and Images(3) - Numpy Usage
 description: More operations that are commonly used in Numpy.
 date: 2025-01-05
-categories: [Handling Data and Images]
-tags: [Python, Study, Handling Data and Images]
+categories: [Handling Data and Images, Numpy]
+tags: [Python, Study, Handling Data and Images, Numpy]
 math: true
 ---
 
