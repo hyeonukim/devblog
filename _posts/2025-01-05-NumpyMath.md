@@ -208,14 +208,10 @@ Sum of each row: [24 28 32 36]
 
 - Adding or Multiplying array with constant results in adding or multiplying every element
 
-- [**numpy.max(a, axis=None, out=None, keepdims=(no value), initial=(no value), where=(no value))**](https://numpy.org/doc/stable/reference/generated/numpy.max.html):
-    - returns the maximum of an array or maximum along an axis
+- **numpy.max**: returns the maximum of an array or maximum along an axis
 
-- [**numpy.min(a, axis=None, out=None, keepdims=(no value), initial=(no value), where=(no value))**](https://numpy.org/doc/stable/reference/generated/numpy.min.html):
-    - returns the minimum of an array or minimum along an axis
+- **numpy.min**: returns the minimum of an array or minimum along an axis
 
-- [**numpy.sum(a, axis=None, dtype=None, out=None, keepdims=(no value), initial=(no value), where=(no value))**](https://numpy.org/doc/stable/reference/generated/numpy.sum.html):
-    - sum of array elements over a given axis
+- **numpy.sum**: sum of array elements over a given axis
 
-- [**numpy.mean(a, axis=None, dtype=None, out=None, keepdims=(no value), *, where=(no value))**](https://numpy.org/doc/stable/reference/generated/numpy.mean.html)
-    - compute the arithmetic mean along the specified axis.
+- **numpy.mean**: compute the arithmetic mean along the specified axis.
