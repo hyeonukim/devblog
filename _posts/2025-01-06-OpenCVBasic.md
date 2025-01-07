@@ -2,8 +2,8 @@
 title: How to handle Data, and Images(4) Introduction To OpenCV
 description: Introduction on OpenCV library, and how to upload images in CoLab
 date: 2025-01-05
-categories: [Handling Data and Images, Numpy]
-tags: [Python, Study, Handling Data and Images, Numpy]
+categories: [Handling Data and Images, OpenCV]
+tags: [Python, Study, Handling Data and Images, OpenCV]
 math: true
 ---
 
@@ -49,7 +49,7 @@ There are 3 basic functions that we must know to use OpenCV.
 - **cv2.cvtColor(image, flag)**: converts the image's color
     - image: image file
     - flag: sets flag on converting color
-    
+
 ## How to output an Image in CoLab
 
 Now that we know how to load, display, and convert the color of image, we must know how to display this image in Google CoLab. If you're just using Python to do this, then we can just use **cv2.imshow**, but CoLab does not allow this.
