@@ -38,9 +38,18 @@ OpenCV is an open source library that is commonly used for computer vision, imag
 There are 3 basic functions that we must know to use OpenCV.
 
 - **cv2.imread(file_name, flag)**: Loads an image from a file
+    - file_name: a name of a file that we're tyring to read
+    - flag: sets flag on how to read images
+        - IMREAD_COLOR: If set, always convert image to the 3 channel BGR color image.
+        - IMREAD_GRAYSCALE: If set, always convert image to the single channel grayscale image (codec internal conversion).
+        - IMREAD_UNCHANGED: If set, return the loaded image as is (with alpha channel, otherwise it gets cropped). Ignore EXIF orientation.
 - **cv2.imshow(title, image)**: Displays an image
+    - title: title of the window file that pops up
+    - image: image that you want to output
 - **cv2.cvtColor(image, flag)**: converts the image's color
-
+    - image: image file
+    - flag: sets flag on converting color
+    
 ## How to output an Image in CoLab
 
 Now that we know how to load, display, and convert the color of image, we must know how to display this image in Google CoLab. If you're just using Python to do this, then we can just use **cv2.imshow**, but CoLab does not allow this.
