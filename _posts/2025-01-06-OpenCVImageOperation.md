@@ -1,7 +1,7 @@
 ---
 title: How to handle Data, and Images(5) OpenCV's Image Operation
 description: How to use OpenCV for Image manipulation and selecting specific pixels
-date: 2025-01-05
+date: 2025-01-06
 categories: [Handling Data and Images, OpenCV]
 tags: [Python, Study, Handling Data and Images, OpenCV]
 math: true

@@ -1,7 +1,7 @@
 ---
 title: How to handle Data, and Images(4) Introduction To OpenCV
 description: Introduction on OpenCV library, and how to upload images in CoLab
-date: 2025-01-05
+date: 2025-01-06
 categories: [Handling Data and Images, OpenCV]
 tags: [Python, Study, Handling Data and Images, OpenCV]
 math: true
