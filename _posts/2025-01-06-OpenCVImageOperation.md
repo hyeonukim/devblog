@@ -145,7 +145,7 @@ Output:
 ## Summary
 
 - Image that is read by cv2 is stored as a 3D array form (if Gray Scaled, then it's 2D)
-    - It represents (width, height, BGR)
+    - It represents (height, width, BGR)
 - We should always try to avoid using for loop in Python there are always different methods
 - To get ROI(Region of Interest), we can use slicing method
 - Using the fact 3rd index represents BGR, and each are represented as B(0), G(1), R(2) we can change its value to other value
