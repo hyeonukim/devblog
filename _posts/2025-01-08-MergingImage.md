@@ -24,6 +24,7 @@ There are two ways to add images
 2. **np.add()**: uses modulo arithmetic, meaning that if addition results modulo 256 (Example: addition results in 257, then it would return 257 % 256 = 1)
 
 Because of this, when adding images, it's much better to use cv2.add() in most cases
+
 When using these functions, the two images must have same size
 
 ```python
