@@ -40,7 +40,7 @@ plt.show()
 
 Output:
 
-![Desktop View](/assets/img/HandleImageData/10-line.PNG)
+![Desktop View](/assets/img/HandleImageData/10-line.png)
 
 
 **cv2.rectangle(image, start, end, color, thickness)**: draws a rectangle
@@ -64,7 +64,7 @@ plt.show()
 
 Output:
 
-![Desktop View](/assets/img/HandleImageData/10-square.PNG)
+![Desktop View](/assets/img/HandleImageData/10-square.png)
 
 **cv2.circle(image, center, radian, color, thickness)**: draws a circle
 - center: center of the circle (2d)
@@ -87,7 +87,7 @@ plt.show()
 
 Output:
 
-![Desktop View](/assets/img/HandleImageData/10-circle.PNG)
+![Desktop View](/assets/img/HandleImageData/10-circle.png)
 
 **cv2.polylines(image, points, is_closed, color, thickness)**: creates a polygon
 - points: coordinates of vertex
@@ -112,7 +112,7 @@ plt.show()
 
 Output:
 
-![Desktop View](/assets/img/HandleImageData/10-polygon.PNG)
+![Desktop View](/assets/img/HandleImageData/10-polygon.png)
 
 **cv2.putText(image, text, position, font_type, font_scale, color)**: draws a text
 - position: position where text should be put
@@ -135,7 +135,7 @@ plt.show()
 
 Output:
 
-![Desktop View](/assets/img/HandleImageData/10-text.PNG)
+![Desktop View](/assets/img/HandleImageData/10-text.png)
 
 ## Summary
 
