@@ -1,0 +1,36 @@
+---
+title: Leetcode . 
+description: Explanation for Leetcode  - , and its solution in Python.
+date: 2025-
+categories: [Leetcode, Two Pointers, Easy]
+tags: [Leetcode, Python, Study, Two Pointers, Easy]
+math: true
+---
+
+## Problem
+[Leetcode  - ]()
+
+Example:
+```
+
+```
+
+## Approach
+
+
+Visualization of the Approach:
+```
+
+```
+
+Here is the Python code for the solution:
+```python
+class Solution:
+        
+    
+```
+## Time Complexity and Space Complexity
+
+Time Complexity: $O(n + m)$ where $m$ is length of nums1 $n$ is length of nums2
+
+Space Complexity: $O(1)$
