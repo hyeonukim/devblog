@@ -9,7 +9,7 @@ math: true
 
 ## Lesson Notes in .ipynb file
 
-[How to handle Data, and Images(9) - OpenCV Trackbar](https://github.com/hyeonukim/DataProcessing_ImageHandling/blob/main/How_to_handle_Data%2C_and_Images(9)_OpenCV_Tracker.ipynb)
+[How to handle Data, and Images(9) - OpenCV Trackbar](https://github.com/hyeonukim/DataProcessing_ImageHandling/blob/main/How_to_handle_Data%2C_and_Images(9)_OpenCV_Trackbar.ipynb)
 
 ## Topics
 
