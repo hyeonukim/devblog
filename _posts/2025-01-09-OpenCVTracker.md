@@ -9,14 +9,14 @@ math: true
 
 ## Lesson Notes in .ipynb file
 
-[How to handle Data, and Images(9) - OpenCV Tracker](https://github.com/hyeonukim/DataProcessing_ImageHandling/blob/main/How_to_handle_Data%2C_and_Images(9)_OpenCV_Tracker.ipynb)
+[How to handle Data, and Images(9) - OpenCV Trackbar](https://github.com/hyeonukim/DataProcessing_ImageHandling/blob/main/How_to_handle_Data%2C_and_Images(9)_OpenCV_Tracker.ipynb)
 
 ## Topics
 
-- [OpenCV Tracker](#opencv-tracker)
+- [OpenCV Trackbar](#opencv-trackbar)
 - [Summary](#summary)
 
-## OpenCV Tracker
+## OpenCV Trackbar
 
 **cv2.createTrackbar(track_bar, name, window_name, value, count, on_change)**: Creates trackbar (a slider or range control) with the specified name and range, assigns a variable value to be a position synchronized with the trackbar and specifies the callback function onChange to be called on the trackbar position change.
   - value: pointer to an integer variable whose value reflects the position of the slider.
