@@ -1,7 +1,7 @@
 ---
 title: How to handle Data, and Images(14) KNN Algorithm
-description: 
-date: 
+description: Introduction to KNN Algorithm
+date: 2025-01-12
 categories: [Handling Data and Images, KNN Algorithm]
 tags: [Python, Study, Handling Data and Images, KNN Algorithm]
 math: true
