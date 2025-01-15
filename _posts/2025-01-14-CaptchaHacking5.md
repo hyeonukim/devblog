@@ -7,6 +7,20 @@ tags: [Project, Captcha Hacking]
 math: true
 ---
 
+## Captcha Hacking Series
+
+[Captcha Hacking(1) - Defining the Problem](https://hyeonukim.github.io/devblog/posts/CaptchaHacking1/)
+
+[Captcha Hacking(2) - Collecting Data and Analyzing](https://hyeonukim.github.io/devblog/posts/CaptchaHacking2/)
+
+[Captcha Hacking(3) - Data Cleaning](https://hyeonukim.github.io/devblog/posts/CaptchaHacking3/)
+
+[Captcha Hacking(4) - Training with KNN Algorithm](https://hyeonukim.github.io/devblog/posts/CaptchaHacking4/)
+
+[Captcha Hacking(5) - Automating to solve the Captcha problem](https://hyeonukim.github.io/devblog/posts/CaptchaHacking5/)
+
+[Project Repo](https://github.com/hyeonukim/SCTF2017-Writeups)
+
 ## Topic
 
 - [Automating to Solve](#automating-to-solve)
