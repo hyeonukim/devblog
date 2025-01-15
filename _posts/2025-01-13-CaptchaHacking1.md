@@ -9,6 +9,8 @@ math: true
 
 ## Captcha Hacking Series
 
+[Project Repo](https://github.com/hyeonukim/SCTF2017-Writeups)
+
 [Captcha Hacking(1) - Defining the Problem](https://hyeonukim.github.io/devblog/posts/CaptchaHacking1/)
 
 [Captcha Hacking(2) - Collecting Data and Analyzing](https://hyeonukim.github.io/devblog/posts/CaptchaHacking2/)
@@ -19,7 +21,6 @@ math: true
 
 [Captcha Hacking(5) - Automating to solve the Captcha problem](https://hyeonukim.github.io/devblog/posts/CaptchaHacking5/)
 
-[Project Repo](https://github.com/hyeonukim/SCTF2017-Writeups)
 
 ## Topic
 
