@@ -19,7 +19,7 @@ math: true
 ## KNN Algorithm
 
 K-Nearest Neightbor
-- KNN is one of the basic example of Unsupervised Learning
+- KNN is one of the basic example of Supervised Learning as it requires Training Data
 - From a lot of different labels, it finds the nearest data and determines its own label
 
 ```python
