@@ -9,7 +9,7 @@ math: true
 
 ## Lesson Notes in .ipynb file
 
-[How to handle Data, and Images(16) - Pandas Introduction]()
+[How to handle Data, and Images(16) - Pandas Introduction](https://github.com/hyeonukim/DataProcessing_ImageHandling/blob/main/How_to_handle_Data%2C_and_Images(16)_Pandas_Introduction.ipynb)
 
 ## Topics
 
@@ -312,6 +312,9 @@ Apple             1.5       3
 Banana            2.0       2
 Carrot            1.0       3
 ```
+
+summary.csv |
+![Desktop View](/assets/img/HandleImageData/16-saved.PNG)
 
 ## Summary
 
