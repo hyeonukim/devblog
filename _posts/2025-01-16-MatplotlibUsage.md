@@ -90,7 +90,7 @@ Bar Graph |
 ![Desktop View](/assets/img/HandleImageData/19-3.png) |
 
 ## Drawing Scatter Graph
-- [**matplot.pyplot.scatter**](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html): A scatter plot of y vs. x with varying marker size and/or color.
+- [**matplot.pyplot.scatter()**](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html): A scatter plot of y vs. x with varying marker size and/or color.
 
 ```python
 import matplotlib.pyplot as plt
@@ -113,4 +113,4 @@ Bar Graph |
 
 - [**matplotlib.pyplot.plot()**](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html): Plot y versus x as lines and/or markers.
 - [**matploblib.pyplot.bar()**](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html): Make a bar plot. The bars are positioned at x with the given alignment. Their dimensions are given by height and width. The vertical baseline is bottom (default 0).
-- [**matplot.pyplot.scatter**](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html): A scatter plot of y vs. x with varying marker size and/or color.
+- [**matplot.pyplot.scatter()**](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html): A scatter plot of y vs. x with varying marker size and/or color.
