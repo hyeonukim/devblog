@@ -1,0 +1,23 @@
+---
+title: Paper Review and Practice - NLP(1) - Sequence to Sequence Learning with Neural Networks (NIPS 2014)
+description: Reviewing Paper - Seuqnece to Sequence Learning with Neural Networks (NIPS 2014)
+date: 2025-01-31
+categories: [PaperReview, NLP]
+tags: [PaperReview, NLP]
+math: true
+---
+
+## Topic
+
+
+## Paper and Code
+
+Link to the paper: [Original Paper Link]()
+
+Link to the code: [Code]()
+
+## Summary of Paper
+
+This paper utilizes LSTM(Long Short-Term Memory) for efficient Seq2Seq Machine Translation Architecture
+- Sequence-to-Sequence (Seq2Seq) is bout training models to convert sequences from one language to another langauge
+- Before Transformers were introduced used it as state-of-the-art
