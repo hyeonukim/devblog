@@ -2,8 +2,8 @@
 title: Captcha Hacking(2) - Collecting Data and Analyzing
 description: Collecting Data and Analyzing for Captcha Hacking (2)
 date: 2025-01-14
-categories: [Project, Captcha Hacking]
-tags: [Project, Captcha Hacking]
+categories: [Machine Learning Project, Captcha Hacking]
+tags: [Machine Learning Project, Captcha Hacking]
 math: true
 ---
 

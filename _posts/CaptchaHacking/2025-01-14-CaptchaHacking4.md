@@ -2,8 +2,8 @@
 title: Captcha Hacking(4) - Training with KNN Algorithm
 description: Training with KNN Algorithm for Captcha Hacking (4)
 date: 2025-01-14
-categories: [Project, Captcha Hacking]
-tags: [Project, Captcha Hacking]
+categories: [Machine Learning Project, Captcha Hacking]
+tags: [Machine Learning Project, Captcha Hacking]
 math: true
 ---
 

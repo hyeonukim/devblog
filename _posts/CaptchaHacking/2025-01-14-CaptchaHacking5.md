@@ -2,8 +2,8 @@
 title: Captcha Hacking(5) - Automating to solve the Captcha problem
 description: Automating to solve for Captcha Hacking (5)
 date: 2025-01-14
-categories: [Project, Captcha Hacking]
-tags: [Project, Captcha Hacking]
+categories: [Machine Learning Project, Captcha Hacking]
+tags: [Machine Learning Project, Captcha Hacking]
 math: true
 ---
 

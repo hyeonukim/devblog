@@ -2,8 +2,8 @@
 title: Captcha Hacking(1) - Defining the Problem
 description: Defining the problem of Samsung's Capture The Flag 2017 question (1)
 date: 2025-01-13
-categories: [Project, Captcha Hacking]
-tags: [Project, Captcha Hacking]
+categories: [Machine Learning Project, Captcha Hacking]
+tags: [Machine Learning Project, Captcha Hacking]
 math: true
 ---
 
